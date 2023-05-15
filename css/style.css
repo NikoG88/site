@@ -1,0 +1,34 @@
+.MainContainer {
+    font-family: "Arial";
+    font-size: 25px;
+    color: white;
+}
+
+.RegistrationContainer {
+    width: 95%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: #ff7f50;
+    border: 12px solid #9feadb;
+    border-radius: 15px;
+}
+
+.DemoMathContainer {
+    width: 95%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #025985;
+    border: 12px solid #9feadb;
+    border-radius: 15px;
+}
+
+.Pictures {
+    width: 250px;
+}
